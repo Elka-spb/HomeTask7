@@ -1,0 +1,15 @@
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 7\Task50\bin\Debug\net7.0\Task50.exe
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 7\Task50\bin\Debug\net7.0\Task50.deps.json
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 7\Task50\bin\Debug\net7.0\Task50.runtimeconfig.json
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 7\Task50\bin\Debug\net7.0\Task50.dll
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 7\Task50\bin\Debug\net7.0\Task50.pdb
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 7\Task50\obj\Debug\net7.0\Task50.csproj.AssemblyReference.cache
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 7\Task50\obj\Debug\net7.0\Task50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 7\Task50\obj\Debug\net7.0\Task50.AssemblyInfoInputs.cache
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 7\Task50\obj\Debug\net7.0\Task50.AssemblyInfo.cs
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 7\Task50\obj\Debug\net7.0\Task50.csproj.CoreCompileInputs.cache
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 7\Task50\obj\Debug\net7.0\Task50.dll
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 7\Task50\obj\Debug\net7.0\refint\Task50.dll
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 7\Task50\obj\Debug\net7.0\Task50.pdb
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 7\Task50\obj\Debug\net7.0\Task50.genruntimeconfig.cache
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 7\Task50\obj\Debug\net7.0\ref\Task50.dll
